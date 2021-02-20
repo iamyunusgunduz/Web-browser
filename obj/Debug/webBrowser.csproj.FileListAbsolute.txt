@@ -1,0 +1,10 @@
+C:\Users\yns3g\source\repos\webBrowser\bin\Debug\webBrowser.exe.config
+C:\Users\yns3g\source\repos\webBrowser\bin\Debug\webBrowser.exe
+C:\Users\yns3g\source\repos\webBrowser\bin\Debug\webBrowser.pdb
+C:\Users\yns3g\source\repos\webBrowser\obj\Debug\webBrowser.Properties.Resources.resources
+C:\Users\yns3g\source\repos\webBrowser\obj\Debug\webBrowser.csproj.GenerateResource.cache
+C:\Users\yns3g\source\repos\webBrowser\obj\Debug\webBrowser.csproj.CoreCompileInputs.cache
+C:\Users\yns3g\source\repos\webBrowser\obj\Debug\webBrowser.exe
+C:\Users\yns3g\source\repos\webBrowser\obj\Debug\webBrowser.pdb
+C:\Users\yns3g\source\repos\webBrowser\obj\Debug\webBrowser.Form1.resources
+C:\Users\yns3g\source\repos\webBrowser\obj\Debug\webBrowser.csprojAssemblyReference.cache
